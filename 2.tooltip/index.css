@@ -1,0 +1,17 @@
+body
+{
+    margin:100px 100px;
+}
+.tooltip .tooltip-text
+{
+    background-color: red;
+    color: white;
+    visibility: hidden;
+    padding: 10px;
+    position: absolute;
+    width: 150px;
+}
+.tooltip:hover .tooltip-text
+{
+    visibility: visible;
+}
