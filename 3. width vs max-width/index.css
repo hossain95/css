@@ -1,0 +1,16 @@
+body
+{
+    margin:100px 100px;
+}
+.width
+{
+    width: 600px;
+    background-color: red;
+    color: white;
+}
+.max-width
+{
+    max-width: 600px;
+    background-color: violet;
+    color: white;
+}
