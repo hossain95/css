@@ -1,6 +1,6 @@
 # css
 ## 1. Overflow
-### Property
+##### Property
 * visible
 * hidden
 * scroll
@@ -9,8 +9,8 @@
  ## 2. Tooltip
 > link: https://www.w3schools.com/css/css_tooltip.asp
 ## 3. Width vs max-widht
-### width
+##### width
 * this width does not change with the windows size
-### max-width
+##### max-width
 * this width change with the windows size
 > link: https://www.w3schools.com/css/css_max-width.asp
