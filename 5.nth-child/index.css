@@ -1,0 +1,34 @@
+body
+{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.div1
+{
+    background-color: gray;
+    display: inline-block;
+}
+.div2
+{
+    background-color: gray;
+    display: inline-block;
+}
+.div3
+{
+    background-color: gray;
+    display: inline-block;
+}
+
+/*nth-child*/
+.div1 p:nth-child(2)
+{
+    color: red;
+}
+.div2 p:nth-child(odd)
+{
+    color:mediumblue;
+}
+.div3 p:nth-last-child(2)
+{
+    font-size: 30px;
+}
