@@ -14,3 +14,5 @@
 ##### max-width
 * this width change with the windows size
 > link: https://www.w3schools.com/css/css_max-width.asp
+## 4. Hover
+* apply various effect
