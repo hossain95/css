@@ -1,0 +1,11 @@
+body
+{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.course-list ul
+{
+    list-style-type:circle;
+    list-style-position: inside;
+    list-style-image: url('/checked.png');
+}
