@@ -29,4 +29,12 @@
 * left
 * right
 * clear
-## 8. style navigation-manu
+## 9. Style navigation-manu
+## 10. Position
+##### Property
+* static
+* relative
+* absoluate
+* fixed
+
+
