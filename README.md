@@ -24,3 +24,8 @@
 * list-style-position
 * list-style-image
 ## 7. list-customize-2
+## 8. float
+##### Property
+* left
+* right
+* clear
