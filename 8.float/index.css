@@ -1,0 +1,14 @@
+.div1
+{
+    background-color: brown;
+    float: left;
+}
+.div2
+{
+    background-color: darkblue;
+    float: right;
+}
+.div3
+{
+   clear: both;
+}
