@@ -16,3 +16,5 @@
 > link: https://www.w3schools.com/css/css_max-width.asp
 ## 4. Hover
 * apply various effect
+## 5. nth-child
+* apply any effect on nth-child (element) of parent element
