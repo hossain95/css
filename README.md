@@ -18,3 +18,8 @@
 * apply various effect
 ## 5. nth-child
 * apply any effect on nth-child (element) of parent element
+## 6. list-customize-1
+##### Property
+* list-style-type
+* list-style-position
+* list-style-image
