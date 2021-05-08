@@ -36,5 +36,6 @@
 * relative
 * absoluate
 * fixed
-
+## 11. Z-index
+* Control the stack
 
