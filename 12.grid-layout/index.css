@@ -1,0 +1,22 @@
+.grid-container
+{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    /*grid-template-rows: 120px 80px 200px 100px;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    background-color: cadetblue;*/
+}
+.grid-container > div
+{
+    background-color: chocolate;
+    border: 1px solid black;
+    text-align: center;
+}
+.div4
+{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
