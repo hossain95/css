@@ -44,5 +44,16 @@
 * flex-direction- column, column-reverse, row, row-reverse
 * justify-content- center, flex-start, flex-end
 * align-item- flex-start, flex-end, center
+## grid layout
+##### Property
+* grid-template-column
+* grid-template-row
+* grid-column-gap
+* grid-row-gap
+* grid-column-start
+* grid-column-end
+* grid-row-start
+* grid-row-end
+
  
 
