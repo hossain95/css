@@ -55,7 +55,6 @@
 * grid-row-start
 * grid-row-end
 ## 14. grid layout-2
-
-
+## 15. grid layout using areas
  
 
