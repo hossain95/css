@@ -44,7 +44,7 @@
 * flex-direction- column, column-reverse, row, row-reverse
 * justify-content- center, flex-start, flex-end
 * align-item- flex-start, flex-end, center
-## grid layout
+## 13. grid layout
 ##### Property
 * grid-template-column
 * grid-template-row
