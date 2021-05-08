@@ -38,4 +38,11 @@
 * fixed
 ## 11. Z-index
 * Control the stack
+## 12. flex-layout
+##### Property
+* flex-wrap- nowrap,wrap, wrap-reverse
+* flex-direction- column, column-reverse, row, row-reverse
+* justify-content- center, flex-start, flex-end
+* align-item- flex-start, flex-end, center
+ 
 
